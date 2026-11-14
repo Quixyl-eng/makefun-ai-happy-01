@@ -1,4 +1,4 @@
-// The flower stayed yellow. Copy the note into the output folder.
+// The smile sticks out. Copy the note into the output folder.
 import { copyFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 

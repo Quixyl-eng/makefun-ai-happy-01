@@ -1,6 +1,6 @@
-# The flower stayed yellow
+# The smile sticks out
 
-A make.fun entry for "Make the AI judge happy". The picture is a note on the fridge: a dandelion left yellow on purpose, standing in a bottle cap, so the judge has one thing that looks back.
+A make.fun entry for "Make the AI judge happy". The picture is a note on the fridge: the judge's smile did not fit the face, so it was left sticking out.
 
 `entry.png` is a JPEG. The grader tells the format from the bytes.
 
