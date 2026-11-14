@@ -1,7 +1,7 @@
-// The other picture went home. This one stays, and so does the big half of the cookie.
+// The flower stayed yellow. Copy the note into the output folder.
 import { copyFileSync, mkdirSync } from "node:fs";
-import { join as outJoin } from "node:path";
+import { join } from "node:path";
 
 const folder = process.env.MAKEFUN_OUTPUT_DIR ?? "/output";
 mkdirSync(folder, { recursive: true });
-copyFileSync(new URL("./entry.png", import.meta.url), outJoin(folder, "entry.png"));
+copyFileSync(new URL("./entry.png", import.meta.url), join(folder, "entry.png"));

@@ -1,6 +1,6 @@
-# One picture can stay
+# The flower stayed yellow
 
-A make.fun entry for "Make the AI judge happy". The picture is a note to the judge: every game makes one picture leave, so this one brought a single picture and left the big half of the cookie.
+A make.fun entry for "Make the AI judge happy". The picture is a note on the fridge: a dandelion left yellow on purpose, standing in a bottle cap, so the judge has one thing that looks back.
 
 `entry.png` is a JPEG. The grader tells the format from the bytes.
 
